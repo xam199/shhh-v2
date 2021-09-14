@@ -1,0 +1,26 @@
+C:\Users\Max\Desktop\shhh v2\bin\x64\Release\MetroFramework.Design.dll
+C:\Users\Max\Desktop\shhh v2\bin\x64\Release\MetroFramework.dll
+C:\Users\Max\Desktop\shhh v2\bin\x64\Release\MetroFramework.Fonts.dll
+C:\Users\Max\Desktop\shhh v2\obj\x64\Release\shhh.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\shhh v2\obj\x64\Release\shhh.csproj.GenerateResource.cache
+C:\Users\Max\Desktop\shhh v2\obj\x64\Release\shhh.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\shhh v2\obj\x64\Release\shhh.csproj.CopyComplete
+C:\Users\Max\Desktop\shhh v2\obj\x64\Release\xam.Menu.resources
+C:\Users\Max\Desktop\shhh v2\bin\x64\Release\shhh v2.exe
+C:\Users\Max\Desktop\shhh v2\bin\x64\Release\shhh v2.pdb
+C:\Users\Max\Desktop\shhh v2\obj\x64\Release\xam.Properties.Resources.resources
+C:\Users\Max\Desktop\shhh v2\obj\x64\Release\shhh v2.exe
+C:\Users\Max\Desktop\shhh v2\obj\x64\Release\shhh v2.pdb
+C:\Users\Max\Desktop\Stuff\shhh v2\shhh v2\obj\x64\Release\shhh.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\Stuff\shhh v2\shhh v2\obj\x64\Release\xam.Menu.resources
+C:\Users\Max\Desktop\Stuff\shhh v2\shhh v2\obj\x64\Release\xam.Properties.Resources.resources
+C:\Users\Max\Desktop\Stuff\shhh v2\shhh v2\obj\x64\Release\shhh.csproj.GenerateResource.cache
+C:\Users\Max\Desktop\Stuff\shhh v2\shhh v2\obj\x64\Release\shhh.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Stuff\shhh v2\shhh v2\obj\x64\Release\shhh v2.exe
+C:\Users\Max\Desktop\Stuff\shhh v2\shhh v2\obj\x64\Release\shhh v2.pdb
+C:\Users\Max\Desktop\Stuff\shhh v2\shhh v2\bin\x64\Release\shhh v2.exe
+C:\Users\Max\Desktop\Stuff\shhh v2\shhh v2\bin\x64\Release\shhh v2.pdb
+C:\Users\Max\Desktop\Stuff\shhh v2\shhh v2\bin\x64\Release\MetroFramework.Design.dll
+C:\Users\Max\Desktop\Stuff\shhh v2\shhh v2\bin\x64\Release\MetroFramework.dll
+C:\Users\Max\Desktop\Stuff\shhh v2\shhh v2\bin\x64\Release\MetroFramework.Fonts.dll
+C:\Users\Max\Desktop\Stuff\shhh v2\shhh v2\obj\x64\Release\shhh.csproj.CopyComplete
